@@ -19,4 +19,4 @@ file(
 add_executable(
 	main_exe
 	${sources_files}	
-)
+)
